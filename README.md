@@ -8,19 +8,8 @@ This project focuses on recreating the visual experience of a modern game promot
 
 ## 🌐 Live Demo
 
-🚀 [**[View Live Website](#)**](https://gtavithafshan.netlify.app/)
+🚀 https://gtavithafshan.netlify.app/
 
-> Replace the link above with your deployed Netlify/Vercel URL.
-
----
-
-## 📸 Preview
-
-<!-- Add your project screenshot here -->
-
-![GTA VI Landing Page Preview](./public/preview.png)
-
----
 
 ## ✨ Features
 
